@@ -6,6 +6,8 @@ Ac malesuada maecenas penatibus, curabitur pharetra phasellus volutpat. Mus port
 
 Senectus tempor etiam etiam; leo habitant erat. Risus curabitur gravida vel tellus nunc bibendum eu vel. Pretium ullamcorper nisl ac ante sed praesent elit. Eleifend erat congue commodo faucibus mus et phasellus. Ut volutpat natoque erat fames cubilia massa. Etiam mi aliquam arcu odio litora cubilia. Facilisi dis mauris iaculis commodo facilisis finibus dui auctor tempor.
 
+<hr>
+
 ![afroeschl's Stats](https://github-readme-stats.vercel.app/api?username=afroeschl&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
 ![afroeschl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afroeschl&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
